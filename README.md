@@ -42,3 +42,8 @@ Built with **HTML**, **CSS**, and **JavaScript** — no frameworks, no fluff, ju
    ```bash
    git clone https://github.com/WestLee95/TODO_list.git
    cd TODO_list
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
