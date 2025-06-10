@@ -1,12 +1,44 @@
-# React + Vite
+# ✅ TODO List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, no-nonsense todo list app to help you stay focused and productive.  
+Built with **HTML**, **CSS**, and **JavaScript** — no frameworks, no fluff, just results.
 
-Currently, two official plugins are available:
+> _"One task at a time."_ 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎯 [**Check it out here →** https://todo-list-sigma-ochre-47.vercel.app/](https://todo-list-sigma-ochre-47.vercel.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+- ✅ HTML5  
+- 🎨 CSS (vanilla, sweet and simple)  
+- 🧠 JavaScript (DOM manipulation & events)
+
+---
+
+## ✨ Features
+
+- 🖊️ Add new tasks  
+- 🗑️ Delete tasks  
+- 📃 See your full task list  
+- ⚡ Instant DOM updates  
+- 🧱 Deployed on [Vercel](https://vercel.com)
+
+---
+
+## 📸 Screenshots
+
+![TODO App Screenshot](.assets/Screenshot.png)
+---
+
+## 💡 How to Use Locally
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/WestLee95/TODO_list.git
+   cd TODO_list
