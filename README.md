@@ -33,7 +33,7 @@ Built with **HTML**, **CSS**, and **JavaScript** — no frameworks, no fluff, ju
 
 ## 📸 Screenshots
 
-![TODO App Screenshot](.assets/Screenshot.png)
+![TODO App Screenshot](./assets/Screenshot.png)
 ---
 
 ## 💡 How to Use Locally
